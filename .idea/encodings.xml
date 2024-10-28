@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/WebContent/WEB-INF/lib/更多学习资源，关注公众号毕业程序员.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoCou.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoQuery.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoSc.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoStu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/dao/DaoTea.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/cou/serDeleteCou.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/cou/serDoInsertCou.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/cou/serDoUpdateCou.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/serDoLogin.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/stu/serDeleteStu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/stu/serDoUpdateStu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/ten/ser/stu/serInsertStu.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
